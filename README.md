@@ -26,7 +26,7 @@ A collection of articles that will help you get better at JavaScript.
 
 # Algorithm
 
-- [Array, String, Recursion] (https://github.com/kennymkchan/interview-questions-in-javascript)
+- [Array, String, Recursion](https://github.com/kennymkchan/interview-questions-in-javascript)
 
 
 
