@@ -4,6 +4,7 @@ A collection of articles that will help you get better at JavaScript.
 # Topics
 
 - ES6
+- Algorithm
 
 # ES6
 
@@ -22,4 +23,10 @@ A collection of articles that will help you get better at JavaScript.
 - Generators
 - Async Await
 - Getter/Setter functions
+
+# Algorithm
+
+- [Array, String, Recursion] (https://github.com/kennymkchan/interview-questions-in-javascript)
+
+
 
