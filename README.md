@@ -5,6 +5,7 @@ A collection of articles that will help you get better at JavaScript.
 
 - ES6
 - Algorithm
+- Interviews
 
 # ES6
 
@@ -28,5 +29,8 @@ A collection of articles that will help you get better at JavaScript.
 
 - [Array, String, Recursion](https://github.com/kennymkchan/interview-questions-in-javascript)
 
+# Interviews
+
+- [JsDev](https://github.com/didicodes/javascript-dev-bookmarks)
 
 
