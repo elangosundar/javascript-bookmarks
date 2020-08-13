@@ -32,5 +32,5 @@ A collection of articles that will help you get better at JavaScript.
 # Interviews
 
 - [JsDev](https://github.com/didicodes/javascript-dev-bookmarks)
-
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
